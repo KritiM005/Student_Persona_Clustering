@@ -4,6 +4,7 @@ Unsupervised clustering project that segments students into behavioral personas 
 
 ## About the Data
 
+-**Kaggle Dataset**
 - **File:** `ai_dependency_career_anxiety_students.csv`
 - **Size:** 15,000 rows, 30 columns, no duplicate rows
 - **Unit of observation:** one student per row
