@@ -78,6 +78,13 @@ Cluster-level feature comparisons were used to interpret and label the discovere
 
 A nested clustering approach was also investigated. However, the flat K-Means solution achieved superior validation performance and was selected as the final segmentation model.
 
+### Statistical Validation
+
+To verify that the discovered personas differ significantly on key behavioral and career-related attributes:
+
+- One-Way ANOVA
+- Tukey's HSD Post-Hoc Analysis
+- 
 ## Key Outcomes
 
 - Identified four distinct student personas.
